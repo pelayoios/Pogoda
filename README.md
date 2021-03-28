@@ -2,6 +2,16 @@
 # Pogoda
 Weather App prototype
 
-<h3>About the app</h3>
+## About the app
+
+Pogoda uses Open Weather API to access current, hourly, daily and air quality index weather data in JSON format for any location using latitude and longitude.
+
+### Open Weather API
+
+* MVC Design Pattern
+* JSON parsing using Codable
+* HTTP requests with URLSession
+* Getting current data from Open Weather API
+* Reverse geocoding using Core Location
 
 
