@@ -1,0 +1,2 @@
+# Pogoda
+Weather App prototype
