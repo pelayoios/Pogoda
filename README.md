@@ -15,3 +15,4 @@ Pogoda uses Open Weather API to access current, hourly, daily and air quality in
 * Reverse geocoding using Core Location
 
 
+>This is a learning project created by implementing different Swift components.
